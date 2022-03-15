@@ -3,7 +3,7 @@ My projects for the MSc course 'Machine learning'.
 
 ### 1. CIFAR-100 (classification using TensorFlow 2)
 
-### 2. Airfoil self-noise Prediction (regression using scikit-learn)
+### 2. Airfoil Self-Noise Prediction (regression using scikit-learn)
 
 <img src="imgs/airfoil.png">
 
